@@ -53,3 +53,34 @@ Then submit a PR so I can include it in the repo! See (Guide 3 in the Guides fol
 ### ABOVE ALL ELSE -
 
 Be sure to have fun with the course! I have great stuff in store for you. There will definitely be some gnarly moments, but when you solve the issues, they will be very satisfying. And if not - [contact me](https://www.linkedin.com/in/eddonner/).
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/langchain-ai">
+        <img src="https://github.com/langchain-ai.png" width="80px;" alt="LangChain"/><br />
+        <sub><b>LangChain</b></sub>
+      </a><br />
+      <sub>Agent framework</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/microsoft">
+        <img src="https://github.com/microsoft.png" width="80px;" alt="Microsoft"/><br />
+        <sub><b>Microsoft</b></sub>
+      </a><br />
+      <sub>AutoGen multi-agent framework</sub>
+    </td>
+  </tr>
+</table>
